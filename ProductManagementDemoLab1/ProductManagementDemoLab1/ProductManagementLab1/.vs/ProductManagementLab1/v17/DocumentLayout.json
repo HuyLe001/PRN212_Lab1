@@ -1,33 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\",
+  "WorkspaceRootPath": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\productmanagementlab1\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|solutionrelative:productmanagementlab1\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\productmanagementlab1\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\productmanagementlab1\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|solutionrelative:productmanagementlab1\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\productmanagementlab1\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|solutionrelative:productmanagementlab1\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{803A28FA-4C6F-4116-863C-6CCB6AD9A786}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCCBD6C-E27D-4BFA-894F-BB1E88C585F4}|Repositories\\Repositories.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\productmanagementlab1\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D1CC51-3983-483F-BDE9-9D31DFDF6679}|ProductManagementLab1\\DataAcessLayer.csproj|solutionrelative:productmanagementlab1\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCCBD6C-E27D-4BFA-894F-BB1E88C585F4}|Repositories\\Repositories.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CCCBD6C-E27D-4BFA-894F-BB1E88C585F4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A14770F2-F911-4701-8054-07FF59E3FB59}|BusinessObject\\BusinessObject.csproj|d:\\prn212\\productmanagementdemolab1\\productmanagementdemolab1\\productmanagementlab1\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A14770F2-F911-4701-8054-07FF59E3FB59}|BusinessObject\\BusinessObject.csproj|c:\\users\\msi2k\\desktop\\productmanagementdemolab1\\productmanagementlab1\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A14770F2-F911-4701-8054-07FF59E3FB59}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,60 +43,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDAO.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\ProductDAO.cs",
-              "RelativeDocumentMoniker": "ProductManagementLab1\\ProductDAO.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\ProductDAO.cs",
-              "RelativeToolTip": "ProductManagementLab1\\ProductDAO.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T18:56:14.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AccountDAO.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\AccountDAO.cs",
               "RelativeDocumentMoniker": "ProductManagementLab1\\AccountDAO.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\AccountDAO.cs",
               "RelativeToolTip": "ProductManagementLab1\\AccountDAO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T16:49:53.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "ProductManagementLab1\\CategoryDAO.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\CategoryDAO.cs",
-              "RelativeToolTip": "ProductManagementLab1\\CategoryDAO.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T01:22:57.441Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T20:03:22.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml",
-              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-31T20:03:22.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\BusinessObject\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\BusinessObject\\Product.cs",
               "RelativeDocumentMoniker": "BusinessObject\\Product.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\BusinessObject\\Product.cs",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\BusinessObject\\Product.cs",
               "RelativeToolTip": "BusinessObject\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,15 +91,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "ProductManagementLab1\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\ProductManagementLab1\\ProductDAO.cs",
+              "RelativeToolTip": "ProductManagementLab1\\ProductDAO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:56:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA7wDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T18:12:43.29Z"
+              "WhenOpened": "2025-05-31T18:12:43.29Z",
+              "EditorCaption": ""
             }
           ]
         }

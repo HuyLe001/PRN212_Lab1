@@ -83,23 +83,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\msi2k\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\WPFApp.csproj",
+      "projectUniqueName": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\WPFApp.csproj",
       "projectName": "WPFApp",
-      "projectPath": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\WPFApp.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\obj\\",
+      "projectPath": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\WPFApp.csproj",
+      "packagesPath": "C:\\Users\\msi2k\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\WPFApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\msi2k\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -114,8 +114,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\Services\\Services.csproj": {
-              "projectPath": "D:\\PRN212\\ProductManagementDemoLab1\\ProductManagementDemoLab1\\ProductManagementLab1\\Services\\Services.csproj"
+            "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\msi2k\\Desktop\\ProductManagementDemoLab1\\ProductManagementLab1\\Services\\Services.csproj"
             }
           }
         }
